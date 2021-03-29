@@ -1,2 +1,2 @@
 # RAC
-RAC/graph.png
+!image[RAC/graph.png]
